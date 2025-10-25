@@ -15,49 +15,46 @@
 <meta name="theme-color" content="#ffffff"/>
 
 <script>
-// Open all external links in a new tab (site-wide)
-// Use window.load (fires after everything is rendered) + MutationObserver (covers late DOM changes)
+/* Force external links to open in a new tab (works even if other scripts run later) */
 (function () {
-  function retargetExternalLinks(root) {
-    var host  = location.hostname;
-    var links = (root || document).getElementsByTagName('a');
+  var HOST = location.hostname;
+
+  // Helper: is this anchor an external http(s) link?
+  function isExternal(a) {
+    if (!a || !a.href) return false;
+    var href = a.getAttribute('href') || '';
+    if (!href || href[0] === '#' ||
+        href.startsWith('mailto:') ||
+        href.startsWith('tel:') ||
+        href.startsWith('javascript:')) return false;
+    try { return a.hostname && a.hostname !== HOST; } catch(e) { return false; }
+  }
+
+  // 1) Retarget all existing links after page load
+  function retargetAll() {
+    var links = document.getElementsByTagName('a');
     for (var i = 0; i < links.length; i++) {
-      var a    = links[i];
-      var href = a.getAttribute('href') || '';
-
-      // Skip anchors and non-http(s) schemes
-      if (!href || href[0] === '#' ||
-          href.startsWith('mailto:') ||
-          href.startsWith('tel:') ||
-          href.startsWith('javascript:')) continue;
-
-      // External if hostname differs from current site
-      if (a.hostname && a.hostname !== host) {
+      var a = links[i];
+      if (isExternal(a)) {
         a.target = '_blank';
         a.rel = (a.rel ? a.rel + ' ' : '') + 'noopener noreferrer';
       }
     }
   }
+  window.addEventListener('load', retargetAll);
 
-  // Run after the whole page (including sidebar) has finished loading
-  window.addEventListener('load', function () {
-    retargetExternalLinks(document);
-
-    // Also observe future DOM changes (e.g., content injected later)
-    try {
-      var mo = new MutationObserver(function (mutations) {
-        for (var m of mutations) {
-          if (m.addedNodes) {
-            for (var n of m.addedNodes) {
-              if (n.nodeType === 1) retargetExternalLinks(n);
-            }
-          }
-        }
-      });
-      mo.observe(document.body, { childList: true, subtree: true });
-    } catch (e) { /* older browsers can ignore */ }
-  });
+  // 2) Intercept future clicks (CAPTURE PHASE) and open external links in a new tab
+  document.addEventListener('click', function (e) {
+    var t = e.target;
+    var a = t && (t.closest ? t.closest('a') : (t.tagName === 'A' ? t : null));
+    if (!a) return;
+    if (isExternal(a)) {
+      e.preventDefault();                    // stop same-tab navigation
+      window.open(a.href, '_blank', 'noopener'); // open in new tab safely
+    }
+  }, true); // <-- capture phase so we run before other handlers
 })();
 </script>
+
 
 <!-- end custom head snippets -->
