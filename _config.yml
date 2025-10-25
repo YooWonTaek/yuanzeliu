@@ -27,7 +27,7 @@ author:
   bio        : "Behavioral Science PhD student @ChicagoBooth"
   location   : "Chicago"
   employer   : "University of Chicago"
-  uri        : ""                               # Optional: your personal webpage
+  #uri        : ""                               # Optional: your personal webpage
   email      : "yuanze.liu@chicagobooth.edu"
 
 
