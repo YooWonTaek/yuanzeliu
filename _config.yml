@@ -17,7 +17,7 @@ description   : &description "Yuanze Liu's academic portfolio"   # Short descrip
 # For a user/organization site (https://yuanzeliu.github.io)
 url           : "https://yuanzeliu.github.io"  # Full site URL (no trailing slash)
 baseurl       : ""                             # Must stay empty for user/org sites
-repository    : "yuanzeliu/yuanzeliu.github.io"
+repository    : "yuanzeliu.github.io"
 
 # Site Author - controls sidebar info
 author:
