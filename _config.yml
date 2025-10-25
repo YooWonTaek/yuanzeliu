@@ -13,6 +13,7 @@ title         : "Yuanze Liu"
 title_separator: "-"
 name          : &name "Yuanze Liu"
 description   : &description "Yuanze Liu's academic portfolio"   # Short description for SEO and header
+links_target: "_blank"   # open external links in a new tab
 
 # For a user/organization site (https://yuanzeliu.github.io)
 #url           : "https://yuanzeliu.github.io"  # Full site URL (no trailing slash)
