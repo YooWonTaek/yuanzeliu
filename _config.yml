@@ -15,7 +15,7 @@ name          : &name "Yuanze Liu"
 description   : &description "Yuanze Liu's academic portfolio"   # Short description for SEO and header
 
 # For a user/organization site (https://yuanzeliu.github.io)
-url           : "https://yuanzeliu.github.io"  # Full site URL (no trailing slash)
+#url           : "https://yuanzeliu.github.io"  # Full site URL (no trailing slash)
 baseurl       : ""                             # Must stay empty for user/org sites
 repository    : "yuanzeliu.github.io"
 
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  #github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
