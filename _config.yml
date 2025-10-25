@@ -21,7 +21,7 @@ repository    : "yuanzeliu.github.io"
 
 # Site Author - controls sidebar info
 author:
-  avatar     : "profile.png"                    # Avatar image in /images or root
+  avatar     : "profile1.png"                    # Avatar image in /images or root
   name       : "Yuanze Liu"
   pronouns   : "He/Him"                         # Standard English format
   bio        : "Behavioral Science PhD student @ChicagoBooth"
