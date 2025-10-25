@@ -24,7 +24,7 @@ author:
   avatar     : "profile.png"                    # Avatar image in /images or root
   name       : "Yuanze Liu"
   pronouns   : "He/Him"                         # Standard English format
-  bio        : "Short biography for the left-hand sidebar"
+  bio        : "Behavioral Science PhD student @ChicagoBooth"
   location   : "Chicago"
   employer   : "University of Chicago"
   uri        : ""                               # Optional: your personal webpage
@@ -32,16 +32,16 @@ author:
 
 
   # Academic websites
-  academia         : "https://www.chicagobooth.edu/research/roman/who-we-are/phd-students/yuanze-liu"# URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         : "https://www.chicagobooth.edu/research/roman/who-we-are/phd-students/yuanze-liu"# URL
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=UCWX53IAAAAJ&hl=en&inst=5778974199078678248"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : # URL
-  semantic         : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
+  #inspire-hep      : # URL
+  #impactstory      : # URL
+  #orcid            : # URL
+  #semantic         : # URL
+  #pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Yuanze-Liu-3?ev=hdr_xprf"
+  #scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
