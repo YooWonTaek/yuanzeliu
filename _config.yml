@@ -7,30 +7,29 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yuanze Liu"
-title_separator          : "-"
-name                     : &name "Yuanze Liu"
-description              : &description "Yuanze Liu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://yoowontaek.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/yuanzeliu" # the subpath of your site, e.g. "/blog"
-repository               : "YooWonTaek/yuanzeliu"
+locale        : "en-US"
+site_theme    : "default"  # Currently available options are "default", "air"
+title         : "Yuanze Liu"
+title_separator: "-"
+name          : &name "Yuanze Liu"
+description   : &description "Yuanze Liu's academic portfolio"   # Short description for SEO and header
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# For a user/organization site (https://yuanzeliu.github.io)
+url           : "https://yuanzeliu.github.io"  # Full site URL (no trailing slash)
+baseurl       : ""                             # Must stay empty for user/org sites
+repository    : "yuanzeliu/yuanzeliu.github.io"
+
+# Site Author - controls sidebar info
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Yuanze Liu"
-  pronouns         : "He/His"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Chicago"
-  employer         : "University of Chicago"
-  uri              : # URL
-  email            : "yuanze.liu@chicagobooth.edu" 
+  avatar     : "profile.png"                    # Avatar image in /images or root
+  name       : "Yuanze Liu"
+  pronouns   : "He/Him"                         # Standard English format
+  bio        : "Short biography for the left-hand sidebar"
+  location   : "Chicago"
+  employer   : "University of Chicago"
+  uri        : ""                               # Optional: your personal webpage
+  email      : "yuanze.liu@chicagobooth.edu"
+
 
   # Academic websites
   academia         : # URL
