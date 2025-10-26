@@ -25,8 +25,8 @@ author:
   name       : "Yuanze Liu"
   #pronouns   : "He/Him"                         # Standard English format
   bio        : "Behavioral Science PhD student @ChicagoBooth"
-  location   : "Chicago"
-  employer   : "University of Chicago"
+  #location   : "Chicago"
+  #employer   : "University of Chicago"
   #uri        : ""                               # Optional: your personal webpage
   email      : "yuanze.liu@chicagobooth.edu"
 
