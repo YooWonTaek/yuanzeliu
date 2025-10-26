@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research"   # 页面标题可自改
-permalink: /research/   # 修改 URL 为 /research/
+permalink: /Research/   # 修改 URL 为 /research/
 author_profile: true
 ---
 
