@@ -75,7 +75,7 @@ Below is an introduction of my research by topics. You can find my published pap
 
 
 <!-- ===== Theme 1 ===== -->
-<details class="theme" open>
+<details class="theme">
   <summary><span class="chev">▶</span> Societal Level — How groups of different cultures and political stands live together?</summary>
 
   <div class="rcard">
