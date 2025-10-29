@@ -76,7 +76,7 @@ Below is an introduction of my research by topics. You can find my published pap
 
 <!-- ===== Theme 1 ===== -->
 <details class="theme">
-  <summary><span class="chev">▶</span> Societal Level — How groups of different cultures and political stands live together?</summary>
+  <summary><span class="chev">▶</span> Societal Level</summary>
 
   <div class="rcard">
     <div class="img">
@@ -90,10 +90,7 @@ Below is an introduction of my research by topics. You can find my published pap
         and measures cascade thresholds, local reinforcement, and global diffusion.
       </p>
       <p class="links">
-        <a class="btn btn--primary btn--sm" href="/files/paper1.pdf">PDF</a>
-        <a class="btn btn--light btn--sm" href="https://arxiv.org/abs/xxxx.xxxxx">arXiv</a>
-        <a class="btn btn--light btn--sm" href="/slides/slides1.pdf">Slides</a>
-        <a class="btn btn--light btn--sm" href="https://github.com/yourrepo">Code</a>
+        <a class="btn btn--primary btn--sm" href="/files/LLMAgentProposal.pdf">PDF</a>
       </p>
     </div>
   </div>
@@ -119,7 +116,7 @@ Below is an introduction of my research by topics. You can find my published pap
 
 <!-- ===== Theme 2 ===== -->
 <details class="theme">
-  <summary><span class="chev">▶</span> Interpersonal Level — Networked Social Learning</summary>
+  <summary><span class="chev">▶</span> Interpersonal Level</summary>
 
   <div class="rcard">
     <div class="img">
