@@ -90,7 +90,7 @@ Below is an introduction of my research by topics. You can find my published pap
         and measures cascade thresholds, local reinforcement, and global diffusion.
       </p>
       <p class="links">
-        <a class="btn btn--primary btn--sm" href="/files/LLMAgentProposal.pdf">PDF</a>
+        <a class="btn btn--primary btn--sm" href="/files/Proposal Pitch- Cultural Evolution in Human-AI Hybrid Networks.docx">Proposal</a>
       </p>
     </div>
   </div>
@@ -98,17 +98,18 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- Optionally add more rows in the same theme -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/tradition_network.png" alt="Norm change visualization">
+      <img src="/images/Research_CivilRights.png" alt="Norm change visualization">
     </div>
     <div class="txt">
-      <h4>Cultural practices and norm transitions</h4>
+      <h4>Historical polarization in legislative support for civil rights in the United States</h4>
       <p>
-        Different practice types create distinct reinforcement structures. We analyze which
-        structures sustain pluralism vs. lock-in, and how AI companions can steer toward
-        pro-social equilibria with minimal interventions.
+        Sixty years after the civil rights movement, we examine the historical trajectory of civil rights through the language of US legislation. Using natural language processing (NLP), we find that civil rights has become a more common but also a more polarized policy area. Polarization between Democrats and Republicans accelerated during the early 1990s and the mid-2010s. The latter acceleration coincided with the rise of the “Black Lives Matter” movement, and it was driven by a surge of legislative support for civil rights among racial minority Democrats. Content analyses show that civil rights legislation supporting racial minorities, women and the LGBTQ+ community has polarized most, while legislation supporting the elderly and disabled has declined in both parties. Our findings offer new insights into party polarization, race and ethnicitypolitics, and collective action tipping points. We showcase NLP as a valuable method for studying the changing behavior of political elites.
+        
+        Jackson, J. C., Liu, Y., & Kteily, N. S. (R&R). Historical polarization in legislative support for civil rights in the United States. *Nature Communications*.
+
       </p>
       <p class="links">
-        <a class="btn btn--light btn--sm" href="/files/extended_abstract.pdf">Extended abstract</a>
+        <a class="btn btn--light btn--sm" href="https://doi.org/10.31234/osf.io/7cqfs_v3">Preprint</a>
       </p>
     </div>
   </div>
