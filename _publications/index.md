@@ -80,7 +80,7 @@ Below is an introduction of my research by topics. You can find my published pap
 
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/complex_contagion.png" alt="Complex contagion schematic">
+      <img src="/images/Research_LLMAgents.png" alt="Complex contagion schematic">
     </div>
     <div class="txt">
       <h4>Fact-sensitive AI agents in mixed human–AI networks</h4>
