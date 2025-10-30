@@ -79,7 +79,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 3) FACT model of trait language -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/fact_model.png" alt="FACT model of trait language">
+      <img src="/images/Research_fact_model.png" alt="FACT model of trait language">
     </div>
     <div class="txt">
       <h4>The content, structure, and history of English trait words (FACT model)</h4>
@@ -93,7 +93,7 @@ Below is an introduction of my research by topics. You can find my published pap
       </p>
       <p class="links">
         <a class="btn btn--light btn--sm" href="https://doi.org/10.31234/osf.io/7qkg8_v1">Preprint</a>
-        <a class="btn btn--primary btn--sm" href="/files/trait_paper.pdf">PDF</a> <!-- placeholder -->
+        
       </p>
     </div>
   </div>
@@ -123,7 +123,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 5) Cultural attachment -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/cultural_attachment.png" alt="Cultural attachment styles">
+      <img src="/images/Research_cultural_attachment.png" alt="Cultural attachment styles">
     </div>
     <div class="txt">
       <h4>The profiles, predictors, and intergroup outcomes of cultural attachment</h4>
@@ -145,7 +145,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 6) Income & cultural variation -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/income_values.png" alt="Income and cultural values">
+      <img src="/images/Research_income_values.png" alt="Income and cultural values">
     </div>
     <div class="txt">
       <h4>Cultural variation in values is greatest among higher income groups</h4>
@@ -165,7 +165,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 7) Abrahamic features -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/abrahamic_features.png" alt="Abrahamic features in deities">
+      <img src="/images/Research_abrahamic_features.png" alt="Abrahamic features in deities">
     </div>
     <div class="txt">
       <h4>History and geography explain the emergence of Abrahamic features in traditional religions</h4>
@@ -187,7 +187,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 8) LLM value measurement tool -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/value_tool.png" alt="LLM-based value measurement">
+      <img src="/images/Research_value_tool.png" alt="LLM-based value measurement">
     </div>
     <div class="txt">
       <h4>Scaling cross-national measurement of political values in parliamentary speeches</h4>
@@ -213,7 +213,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 9) AI prioritization problem -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/ai_prioritization.png" alt="AI prioritization problem">
+      <img src="/images/Research_ai_prioritization.png" alt="AI prioritization problem">
     </div>
     <div class="txt">
       <h4>Large AI models have a prioritization problem: Policy implications and solutions</h4>
@@ -255,7 +255,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 11) Neoliberalism & COVID responses -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/neoliberalism_covid.png" alt="Neoliberalism and COVID responses">
+      <img src="/images/Research_neoliberalism_covid.png" alt="Neoliberalism and COVID responses">
     </div>
     <div class="txt">
       <h4>Neoliberalism and governmental and individual responses to COVID-19</h4>
@@ -277,7 +277,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 12) Cultural essentialism & appropriation -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/cultural_essentialism.png" alt="Cultural essentialism and exchange">
+      <img src="/images/Research_cultural_essentialism.png" alt="Cultural essentialism and exchange">
     </div>
     <div class="txt">
       <h4>Exclusive cultural “legacy”: Cultural essentialism increases derogation of shared-culture use</h4>
@@ -304,7 +304,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 13) Depolarization via hybrid networks -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/Research_LLMAgents.png" alt="Fact-sensitive AI in hybrid networks">
+      <img src="/images/Research_LLM_depolarization.png" alt="Fact-sensitive AI in hybrid networks">
     </div>
     <div class="txt">
       <h4>Depolarization in human–AI hybrid networks through complex contagion</h4>
@@ -324,7 +324,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 14) AI brokerage for socializing -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/broker_agent.png" alt="AI broker agent diagram">
+      <img src="/images/Research_broker_agent.png" alt="AI broker agent diagram">
     </div>
     <div class="txt">
       <h4>AI brokerage promotes human connection in hybrid social networks</h4>
@@ -344,7 +344,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 15) SocAIty platform -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/socAity.png" alt="SocAIty platform">
+      <img src="/images/Research_LLMAgents.png" alt="SocAIty platform">
     </div>
     <div class="txt">
       <h4>SocAIty: A platform for studying social and cultural evolution in human–AI hybrid networks</h4>
@@ -364,7 +364,7 @@ Below is an introduction of my research by topics. You can find my published pap
   <!-- 16) Deliberative democracy beliefs -->
   <div class="rcard">
     <div class="img">
-      <img src="/images/research/deliberative_democracy.png" alt="Deliberative democracy beliefs">
+      <img src="/images/Research_deliberative_democracy.png" alt="Deliberative democracy beliefs">
     </div>
     <div class="txt">
       <h4>Redefining (a good) democracy amid affective polarization</h4>
