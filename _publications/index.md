@@ -82,7 +82,7 @@ Below is an introduction of my research by topics. You can find my published pap
       <img src="/images/Research_fact_model.png" alt="FACT model of trait language">
     </div>
     <div class="txt">
-      <h4>The content, structure, and history of English trait words (FACT model)</h4>
+      <h4>The content, structure, and history of English trait words</h4>
       <p>
         Using large language models and human ratings from 3,070 English speakers, we map 2,847 trait words and uncover a four-factor structure—Fitness, Agency, Communion, Traditionalism (FACT)—that covers more of trait space than the Big Five (96% vs. 79%). The FACT dimensions differ in semantic coherence, valence, and historical trajectories (e.g., Communion converging, Agency diverging), indicating that trait language evolves adaptively with social life—optimizing interpersonal description and evaluation as cultural ecologies change.
       </p>
