@@ -105,8 +105,6 @@ Below is an introduction of my research by topics. You can find my published pap
     <p>
       Sixty years after the civil rights movement, we examine the historical trajectory of civil rights through the language of US legislation. Using natural language processing (NLP), we find that civil rights has become a more common but also a more polarized policy area. Polarization between Democrats and Republicans accelerated during the early 1990s and the mid-2010s. The latter acceleration coincided with the rise of the “Black Lives Matter” movement, and it was driven by a surge of legislative support for civil rights among racial minority Democrats. Content analyses show that civil rights legislation supporting racial minorities, women and the LGBTQ+ community has polarized most, while legislation supporting the elderly and disabled has declined in both parties. Our findings offer new insights into party polarization, race and ethnicity politics, and collective action tipping points. We showcase NLP as a valuable method for studying the changing behavior of political elites.
     </p>
-
-    <!-- ✅ 单独一行 + Liu 加粗 + 期刊斜体 -->
     <p class="citation">
       Jackson, J. C., <strong>Liu, Y.</strong>, & Kteily, N. S. (R&R). 
       Historical polarization in legislative support for civil rights in the United States.
@@ -115,6 +113,29 @@ Below is an introduction of my research by topics. You can find my published pap
 
     <p class="links">
       <a class="btn btn--light btn--sm" href="https://doi.org/10.31234/osf.io/7cqfs_v3">Preprint</a>
+    </p>
+  </div>
+</div>
+<div class="rcard">
+  <div class="img">
+    <img src="/images/Research_PredjudiceState.png" alt="Prejudice and State Centralization">
+  </div>
+
+  <div class="txt">
+    <h4>Prejudice tied to state centralization in historical societies</h4>
+
+    <p>
+      Prejudice perpetuates social inequalities, shapes policies, and exacerbates conflicts. Despite its prevalence in modern human life, the origins of prejudice remain unclear. Using novel methods of historical text analysis, we test ecological and structural theories of how prejudice evolves. First, we code 389 ethnographic sources from 90 societies, finding that horizontal prejudice (group-based dislike) and vertical prejudice (superiority beliefs) are positively associated with state centralization but not with environmental threat, pathogens, or warfare. Second, we analyze ethnic prejudice in Chinese historical records (206 BCE–1911 CE) using a large language model, similarly showing that prejudice intensified during state centralization and diminished during decentralized governance. These findings challenge the notion of prejudice as universal, suggesting instead that prejudice co-evolves with social structure.
+    </p>
+
+    <p class="citation">
+      Dillion, D., <strong>Liu, Y.</strong>, Chen Y., Watts, J., Zhao, C., Baral, S., Bucker, W., Atari, M., Kteily, N., & Jackson, J. (under review).
+      Prejudice tied to state centralization in historical societies.
+      <em>Science Advances</em>.
+    </p>
+
+    <p class="links">
+      <a class="btn btn--light btn--sm" href="https://doi.org/10.31234/osf.io/zxuth">Preprint</a>
     </p>
   </div>
 </div>
