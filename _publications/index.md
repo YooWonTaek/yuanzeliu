@@ -136,7 +136,7 @@ Below is an introduction of my research by topics. You can find my published pap
         <em>Personality and Social Psychology Bulletin</em>.
       </p>
       <p class="links">
-        <a class="btn btn--light btn--sm" href="https://journals.sagepub.com/doi/epub/10.1177/01461672231190753">Article</a>
+        <a class="btn btn--light btn--sm" href="https://journals.sagepub.com/doi/epub/10.1177/01461672231190753">Journal</a>
         <a class="btn btn--primary btn--sm" href="/files/cultural_attachment.pdf">PDF</a> <!-- placeholder -->
       </p>
     </div>
@@ -268,7 +268,7 @@ Below is an introduction of my research by topics. You can find my published pap
         <em>Political Psychology</em>, 45(2), 363–382.
       </p>
       <p class="links">
-        <a class="btn btn--light btn--sm" href="https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12927">Article</a>
+        <a class="btn btn--light btn--sm" href="https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12927">Journal</a>
         <a class="btn btn--primary btn--sm" href="/files/neoliberalism_covid.pdf">PDF</a> <!-- placeholder -->
       </p>
     </div>
@@ -290,7 +290,7 @@ Below is an introduction of my research by topics. You can find my published pap
       </p>
       <p class="links">
         <a class="btn btn--light btn--sm" href="https://doi.org/10.31234/osf.io/7bqxp_v1">Preprint</a>
-        <a class="btn btn--primary btn--sm" href="/files/cultural_essentialism.pdf">PDF</a> <!-- placeholder -->
+         <!-- placeholder -->
       </p>
     </div>
   </div>
@@ -316,7 +316,7 @@ Below is an introduction of my research by topics. You can find my published pap
         Depolarization in human–AI hybrid networks through complex contagion. <em>In progress</em>.
       </p>
       <p class="links">
-        <a class="btn btn--primary btn--sm" href="/files/depolarization_hybrid_networks.pdf">PDF</a> <!-- placeholder -->
+        <a class="btn btn--primary btn--sm" href="/files/hybridNetwork.docx">DOC</a> <!-- placeholder -->
       </p>
     </div>
   </div>
@@ -336,7 +336,7 @@ Below is an introduction of my research by topics. You can find my published pap
         AI brokerage promotes human connection in hybrid social networks. <em>In progress</em>.
       </p>
       <p class="links">
-        <a class="btn btn--primary btn--sm" href="/files/ai_brokerage.pdf">PDF</a> <!-- placeholder -->
+        <a class="btn btn--primary btn--sm" href="/files/hybridNetwork.docx">DOC</a> <!-- placeholder -->
       </p>
     </div>
   </div>
@@ -356,7 +356,7 @@ Below is an introduction of my research by topics. You can find my published pap
         SocAIty: A platform for studying social and cultural evolution in human–AI hybrid networks. <em>In preparation</em>.
       </p>
       <p class="links">
-        <a class="btn btn--primary btn--sm" href="/files/socAity_platform.pdf">PDF</a> <!-- placeholder -->
+        <a class="btn btn--primary btn--sm" href="/files/hybridNetwork.docx">DOC</a> <!-- placeholder -->
       </p>
     </div>
   </div>
@@ -378,7 +378,7 @@ Below is an introduction of my research by topics. You can find my published pap
       </p>
       <p class="links">
         <a class="btn btn--light btn--sm" href="https://doi.org/10.31234/osf.io/gfdwx_v1">Preprint</a>
-        <a class="btn btn--primary btn--sm" href="/files/deliberative_democracy.pdf">PDF</a> <!-- placeholder -->
+         <!-- placeholder -->
       </p>
     </div>
   </div>
