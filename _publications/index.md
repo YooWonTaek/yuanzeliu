@@ -162,27 +162,6 @@ Below is an introduction of my research by topics. You can find my published pap
     </div>
   </div>
 
-  <!-- 7) Abrahamic features -->
-  <div class="rcard">
-    <div class="img">
-      <img src="/images/Research_abrahamic_features.png" alt="Abrahamic features in deities">
-    </div>
-    <div class="txt">
-      <h4>History and geography explain the emergence of Abrahamic features in traditional religions</h4>
-      <p>
-        Using 3,338 ethnographic and historical texts from 109 societies (coding 850 gods on 50 traits), we find that historical geography, documenter identity, and hybridization with world religions explain the rise of Abrahamic traits—rather than ecology or social complexity. A 38-country survey (N=8,027) corroborates the pattern, highlighting diffusion and contact as engines of religious cultural evolution.
-      </p>
-      <p class="citation">
-        Jackson, J. C., Abrams, S.,* Watts, J., Purzycki, B., Lightner, A., <strong>Liu, Y.</strong>,* Beckman, E.,
-        Wilbanks, D.,* Kaur, N., & Gray, K. (under review).
-        History and geography explain the emergence of Abrahamic features in traditional religions.
-        <em>Scientific Data</em>.
-      </p>
-      <p class="links">
-        <a class="btn btn--primary btn--sm" href="/files/abrahamic_features.pdf">PDF</a> <!-- placeholder -->
-      </p>
-    </div>
-  </div>
 
   <!-- 8) LLM value measurement tool -->
   <div class="rcard">
